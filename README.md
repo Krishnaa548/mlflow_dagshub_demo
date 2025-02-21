@@ -1,2 +1,2 @@
-# mlflow_dagshub_demo
+# mlflow_dagshub
 Take control of your multimodal data
